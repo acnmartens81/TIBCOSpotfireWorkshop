@@ -2,10 +2,9 @@
 
 ## Lab Guide
 
-#### Authors
-Steven van der Kroft
+### Authors
+Steven van der Kroft \
 Alain Martens
-
 
 <details>
 <summary>
@@ -255,8 +254,6 @@ We have trained 3 models and ran the models against the unseen transactions in t
 
 ![alt_text](images/image22.png "image_tooltip")
 
-
-
 5. If you close your workfile you should find a new file in your workspace which is the exported PMML file. 
 
 
@@ -264,11 +261,11 @@ We have trained 3 models and ran the models against the unseen transactions in t
 
 6. Congratulations, you've now successfully completed all Labs!
 
-**[What happened]** \
-Let's recap what we've done.  \
-1. First you've prepared your project environment (workspace) for this data science project \
-2. Next we've loaded our data from Hadoop.  \
-3. After that we've explored if data preparation needs to be performed.  \
-4. Next we've split that data in a training and test set and scored 3 different models against the training set. \
-5. Then we've validated the model performance using the test data set. \
-6. And at last we've exported the winning model to automatically score new loan requests (in batches using TIBCO Data Science or in real time using TIBCO Data Streams).
+**[What happened]**
+Let's recap what we've done.
+1. First you've prepared your project environment (workspace) for this data science project
+2. Next we've loaded our data from Hadoop.
+3. After that we've explored if data preparation needs to be performed.
+4. Next we've split that data in a training and test set and scored 3 different models against the training set.
+5. Then we've validated the model performance using the test data set.
+6. And at last we've exported the winning model to automatically score new loan requests (in batches using TIBCO Data Science or in real time using TIBCO Data Streams)
