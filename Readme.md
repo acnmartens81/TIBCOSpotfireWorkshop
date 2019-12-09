@@ -79,15 +79,7 @@ To start analyzing we require data to be loaded in Spotfire. To do so perform th
 
 <!--![alt_text](images/image25.png "image_tooltip")--><img src=images/image25.png width="80%">
 
-Now let's check the screen. Spotfire has suggested to add rows from mainTable_long.csv to mainTable_others.csv. This is indicated by the flashing light bulb
-<!--![alt_text](images/image36.png "image_tooltip")-->
-<img src=images/image36.png width="5%">
- . Which tells you that Spotfire automatically applied a recommendation. Since the structure of the two tables is (almost) the same, therefore the recommendation is made to add the rows of the 2nd data table to the first one. If you click on the second data file (mainTable_long.csv) you will see this recommendation and you can validate that what Spotfire has done automatically is appropriate for your data by clicking on the 
-
-
-<!--![alt_text](images/image7.png "image_tooltip")-->
-<img src=images/image7.png width="5%">
-symbol. Now click OK or cancel to go back to the previous screen.
+Now let's check the screen. Spotfire has suggested to add rows from mainTable_long.csv to mainTable_others.csv. This is indicated by the flashing light bulb <!--![alt_text](images/image36.png "image_tooltip")--> <img src=images/image36.png width="5%">. Which tells you that Spotfire automatically applied a recommendation. Since the structure of the two tables is (almost) the same, therefore the recommendation is made to add the rows of the 2nd data table to the first one. If you click on the second data file (mainTable_long.csv) you will see this recommendation and you can validate that what Spotfire has done automatically is appropriate for your data by clicking on the <!--![alt_text](images/image7.png "image_tooltip")--> <img src=images/image7.png width="5%"> symbol. Now click OK or cancel to go back to the previous screen.
 
 For the table based on file additionalinfo.csv no recommendation has been made and Spotfire has suggested to add this data file as a separate data table. We would like, however, to add the columns in this dataset to the other table. We can do so by clicking on the data file (additionalinfo.csv) and changing the “Add as new table” setting to “Add as Columns to”. 
 
