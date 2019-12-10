@@ -412,6 +412,10 @@ We hope you have started to appreciate the capabilities that support you in gett
 
 In the Data Science workshop we will extend this further using TIBCO Data Science.
 
+## Feedback
+Thank you for attending the TIBCO Spotfire Workshop.
+We constantly like to improve our workshops. Therefore we kindly ask you to complete [this feedback form](https://forms.gle/dcW6GmZzAg5ysytE6).
+
 ## Appendix A
 
 If the locale of your system is not set to The Netherlands then a comma might not be interpreted as a decimal separator. This causes the column 'Monthly Debt' to be classified as a category value instead of a numeric value. 
