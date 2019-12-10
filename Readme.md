@@ -416,6 +416,7 @@ In the Data Science workshop we will extend this further using TIBCO Data Scienc
 ## Feedback
 Thank you for attending the TIBCO Spotfire Workshop.
 We constantly like to improve our workshops. Therefore we kindly ask you to complete [this feedback form](https://forms.gle/dcW6GmZzAg5ysytE6).
+(If you're also attending the Data Science in the afternoon you can fill out the feedback form after the Data Science workshop.)
 
 ## Appendix A
 
