@@ -391,9 +391,9 @@ In the Folder Exercise 3 there is one file named 'credit_unlabeled'. Add this to
 
 From the 'MyModel' page click on the predict from model icon <!--![alt_text](images/image14.png "image_tooltip")-->
 <img src=images/image14.png width="5%">.
-This will bring up a pop up similar to the one we saw when we validated the model. Now choose the “credit_unlabeled” table as the data table and click OK.
+This will bring up a pop up similar to the one we saw when we validated the model. Now choose the “credit_unlabeled” table as the data table and click OK. This will add a couple of colums to the data table.
 
-Now add a new page to the analysis and a table visualization that shows the “credit_unlabeled” data table, using the table selector at the top right. If you scroll to the last column in the visualization you will see a column has been added with the predicted class. The values in the column are  “bad” or “not bad”. The reason for this is that our model predicts the class “bad”. Similarly we could have created a model that predicted the class “good”.
+To see the effect add a new page to the analysis and a table visualization that shows the “credit_unlabeled” data table, using the table selector at the top right. If you scroll to the last column in the visualization you will see a column has been added with the predicted class. The values in the column are  “bad” or “not bad”. The reason for this is that our model predicts the class “bad”. Similarly we could have created a model that predicted the class “good”.
 
 There is also a new column added with the name probprediction which contains the probability that the class would be classified as “bad”.  If the value is closer to 1 the model is quite certain that the class would be “bad” and classified it as such. If the value is closer to 0 then the model will have classified it as “not bad”. When considering to give a loan to these customers we should be careful with the customers that have a predicted class of “bad” and especially the ones that have a very high probability.
 
