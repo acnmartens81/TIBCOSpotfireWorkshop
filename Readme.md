@@ -30,7 +30,6 @@ Additional info can be found the TIBCO Community:
          * [Task 3 Discover and validate the Data](#task-3-discover-and-validate-the-data)
       * [Guided Lab 2: The basics](#guided-lab-2-the-basics)
          * [Task 1: Explore by searching](#task-1-explore-by-searching)
-         * [Task 2: Start from visualizations](#task-2-start-from-visualizations)
       * [Guided Lab 3: Working with the Analyst](#guided-lab-3-working-with-the-analyst)
          * [Taks 1 Installing the Analyst client](#taks-1-installing-the-analyst-client)
          * [Task 2 Exploring the Cloud Analyst](#task-2-exploring-the-cloud-analyst)
@@ -38,6 +37,7 @@ Additional info can be found the TIBCO Community:
          * [Task 4 Validate the model](#task-4-validate-the-model)
          * [Task 5 Predict from the model](#task-5-predict-from-the-model)
       * [Summary](#summary)
+      * [Feedback](#feedback)
       * [Appendix A](#appendix-a)
 
 
