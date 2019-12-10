@@ -268,10 +268,11 @@ In order to do this, let’s add a line chart. On the Y-axis we are going to add
 
 Hint; Use the plus sign on the y axis selector to add new columns. 
 
-For the x-axis select (Column names). In the legend change 'line by' to (CustomerID).
+For the x-axis select (Column names). In the legend change 'line by' to (CustomerID). Also in the legend select to remove the 'Color By'.
 
 <!--![alt_text](images/image26.png "image_tooltip")-->
-<img src=images/image26.png width="80%">
+<img src=images/image26.png width="100%">
+
 If all is well your visualization should match the one as depicted above. 
 If it doesn't, it might be that your locale settings of your system are different. For Spotfire to deal with this situation we can transform the 'Monthly Debt' column. In order to do this please follow the steps in Appendix A (at the end of this document). 
 
