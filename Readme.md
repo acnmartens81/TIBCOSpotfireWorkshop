@@ -73,6 +73,10 @@ We recommend using Google Chrome (46.x or higher) or Mozilla Firefox (42.x or hi
 
 ### Task 2: Loading data 
 
+In order to analyze the data you will need to download the data files which have been prepared by you. You can download the [lab files zip file here](https://github.com/TIBCONL/spotfireworkshop/archive/master.zip)! 
+Once downloaded, please extract them on your local machine. You'll find the data files in the 'lab files' folder.
+
+
 You’ll start with an empty screen inviting you to take action.
 <!--![alt_text](images/image45.png "image_tooltip")--><img src=images/image45.png width="80%">
 To start analyzing we require data to be loaded in Spotfire. To do so perform the following; Drag and drop all 3 files from the folder Exercise 1 onto this screen. 
